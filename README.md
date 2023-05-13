@@ -19,4 +19,4 @@ we need to analyse the corpus and fit a machine learning model to predict the ge
 - Vectorization
 - Cross Validation
 
-
+***Tokenization***
