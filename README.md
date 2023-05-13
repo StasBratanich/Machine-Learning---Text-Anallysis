@@ -15,8 +15,20 @@ we need to analyse the corpus and fit a machine learning model to predict the ge
 
 - Tokenization
 - Train Test Split
-- Data Handling
 - Vectorization
 - Cross Validation
 
 ***Tokenization***
+
+Using Hebre Tokenization we managed to split each word to a different token
+
+***Train Test Split***
+
+Splitting the train and test set with default values
+
+***Vectorization***
+Using 2 variation of vectorization to find the best vectorizer for our module :
+Count Vectorization
+Tfid Vectorization
+
+***Cross Validation***
