@@ -1,4 +1,10 @@
-# Machine-Learning - Text-Anallysis
+<h1 align="center">Machine-Learning - Text-Anallysis/h1>
+
+***
+
+<p align="center">Hebrew explenation video</p>
+<p align="center">https://youtu.be/M872oVq0nnc</p>
+
 
 ## ℹ️ Overview
 
