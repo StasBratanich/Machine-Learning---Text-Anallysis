@@ -36,4 +36,4 @@ Using 2 variation of vectorization to find the best vectorizer for our module :
 
 ***Cross Validation***
 
-with cross validation we could process our full data and aplly our machine learning module, each time we process 10% of our corpus
+with cross validation we could process our full data and apply our machine learning module, each time we process 10% of our corpus
