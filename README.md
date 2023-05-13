@@ -20,11 +20,13 @@ we need to analyse the corpus and fit a machine learning model to predict the ge
 
 ***Tokenization***
 
-Using Hebre Tokenization we managed to split each word to a different token
+Using Hebrew Tokenization we managed to split each word to a different token
 
 ***Train Test Split***
 
-Splitting the train and test set with default values
+Splitting the train and test set with default values :
+test size = 0.2
+random state = 42
 
 ***Vectorization***
 
