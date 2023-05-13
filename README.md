@@ -3,7 +3,7 @@
 ***
 
 <p align="center">Hebrew explenation video</p>
-<p align="center">https://youtu.be/M872oVq0nnc</p>
+<p align="center">[https://youtu.be/M872oVq0nnc](https://www.youtube.com/watch?v=-18xmAskm1Q)</p>
 
 
 ## ℹ️ Overview
