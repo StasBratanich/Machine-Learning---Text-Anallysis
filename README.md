@@ -27,6 +27,7 @@ Using Hebre Tokenization we managed to split each word to a different token
 Splitting the train and test set with default values
 
 ***Vectorization***
+
 Using 2 variation of vectorization to find the best vectorizer for our module :
 Count Vectorization
 Tfid Vectorization
