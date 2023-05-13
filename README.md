@@ -25,6 +25,7 @@ Using Hebrew Tokenization we managed to split each word to a different token
 ***Train Test Split***
 
 Splitting the train and test set with default values :
+
 test size = 0.2
 random state = 42
 
