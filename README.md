@@ -25,13 +25,15 @@ Using Hebrew Tokenization we managed to split each word to a different token
 ***Train Test Split***
 
 Splitting the train and test set with default values :
-- test size = 0.2
-- random state = 42
+- test_size = 0.2
+- random_state = 42
 
 ***Vectorization***
 
 Using 2 variation of vectorization to find the best vectorizer for our module :
-Count Vectorization
-Tfid Vectorization
+- Count Vectorization
+- Tfid Vectorization
 
 ***Cross Validation***
+
+with cross validation we could process our full data and aplly our machine learning module, each time we process 10% of our corpus
