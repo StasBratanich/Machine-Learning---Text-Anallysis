@@ -2,10 +2,10 @@
 
 ## 🌟 Highlights
 
-- Data Acquisition
+- Tokenization
+- Train Test Split
 - Data Handling
-- Exploratory Data Analysis ( EDA )
-- Supervised Learning
-- Unsupervised Learning
+- Vectorization
+- Cross Validation
 
 ## ℹ️ Overview
